@@ -1,0 +1,6 @@
+{
+  "name": "AgeCalc",
+  "description": "Calculate your exact age in years, months, days, weeks, hours and more with our free and accurate Age Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
